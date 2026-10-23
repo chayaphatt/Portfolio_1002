@@ -19,18 +19,9 @@
 
 ## How to Run
 
-สามารถเปิดดูผลงานได้ 3 รูปแบบตามความสะดวก ดังนี้:
 
 ### 1. ดูผลงานจริงผ่านเว็บไซต์ออนไลน์ (GitHub Pages)
 สามารถเข้าชมหน้าเว็บไซต์ที่เปิดออนไลน์ได้ทันทีผ่านลิงก์:
 👉 **[https://chayaphatt.github.io/Portfolio_1002/](https://chayaphatt.github.io/Portfolio_1002/)**
 
 ---
-
-### 2. รันบนเครื่องคอมพิวเตอร์ผ่าน VS Code / Antigravity IDE (แนะนำ)
-หากต้องการเปิดดูในโปรแกรมแก้ไขโค้ดและทดสอบแบบ Real-time:
-
-1. **Clone โปรเจกต์ลงเครื่อง:**
-   เปิด Terminal แล้วพิมพ์คำสั่ง:
-   ```bash
-   git clone [https://github.com/chayaphatt/Portfolio_1002.git](https://github.com/chayaphatt/Portfolio_1002.git)
